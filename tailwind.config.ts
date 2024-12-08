@@ -8,6 +8,10 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+				headingFont: ["bebas"],
+				bodyFont: ["kanit"],
+			},
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
